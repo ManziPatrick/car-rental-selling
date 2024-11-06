@@ -28,7 +28,7 @@ This is a business-oriented, online car sales platform designed to cater to peop
    ```
 2. Navigate into the project directory:
    ```bash
-   cd e-commerce-online-car-sales
+   cd car-rental-selling
    ```
 3. Open the `index.html` file in your browser to view the site.
 
