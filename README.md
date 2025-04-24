@@ -24,7 +24,7 @@ This is a business-oriented, online car sales platform designed to cater to peop
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ManziPatrick/car-rental-selling.git
+ 
    ```
 2. Navigate into the project directory:
    ```bash
